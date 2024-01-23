@@ -1,6 +1,7 @@
 {
-  "name": "my-angular-app",
+  "name": "qlik-embed-angular",
   "version": "0.0.0",
+  "description": "A plain web Angular mashup example using the Qlik embed (webcomponents)",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,6 +9,18 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "keywords": [
+    "qlik",
+    "embed",
+    "webcomponent",
+    "Angular",
+    "mashup"
+  ],
+  "engines": {
+    "angular": "16.x"
+  },
+  "author": "QlikTech International AB - Vincent Legeard",
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.0",

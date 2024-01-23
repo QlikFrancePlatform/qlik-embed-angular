@@ -1,6 +1,8 @@
 # ![Qlik logo](./src/assets/Qlik_Logo.svg) Embed with Angular
 
-This is the website for Qlik Sense Embed Objects with Angular. This package is experimental and do not supported by Qlik Support.
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+This is the mashup for Qlik Sense Embed Objects with Angular. This package is experimental and do not supported by Qlik Support.
 
 ## Getting Started
 
